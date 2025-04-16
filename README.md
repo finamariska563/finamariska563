@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Fina Mariska
+# Hi there 👋, I'm Bachir Bentoumi
 
 ### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Lover
 
-I'm **Fina**, a passionate **DevOps Engineer** who loves building efficient CI/CD pipelines, managing infrastructure as code, and automating everything possible. I thrive at the intersection of development and operations, making software delivery faster, scalable, and more reliable.
+I'm **Bachir**, a passionate **DevOps Engineer** who loves building efficient CI/CD pipelines, managing infrastructure as code, and automating everything possible. I thrive at the intersection of development and operations, making software delivery faster, scalable, and more reliable.
 
 ---
 
@@ -27,7 +27,7 @@ I'm **Fina**, a passionate **DevOps Engineer** who loves building efficient CI/C
 
 ## 📈 GitHub Stats
 
-![Finamariska's GitHub Stats](https://github-readme-stats.vercel.app/api?username=finamariska563&show_icons=true&theme=github_dark)
+![Bachir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=finamariska563&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finamariska563&layout=compact&theme=github_dark)
 
@@ -36,7 +36,7 @@ I'm **Fina**, a passionate **DevOps Engineer** who loves building efficient CI/C
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/finamariska563)
 - 🌐 [Portfolio Website](https://yourwebsite.com) <!-- Optional -->
-- ✉️ Email: finamariska@example.com
+- ✉️ Email: orphamjehans6zc@outlook.com
 
 ---
 
