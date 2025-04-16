@@ -25,14 +25,6 @@ I'm **Bachir**, a passionate **DevOps Engineer** who loves building efficient CI
 
 ---
 
-## 📈 GitHub Stats
-
-![Bachir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=finamariska563&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finamariska563&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/finamariska563)
 - 🌐 [Portfolio Website](https://yourwebsite.com) <!-- Optional -->
